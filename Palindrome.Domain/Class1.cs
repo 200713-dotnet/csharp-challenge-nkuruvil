@@ -6,10 +6,8 @@ namespace Palindrome.Domain
     public class Class1
     {
 
-        static void Main()
+        public static Boolean testPalindrome(string phrase)
         {
-           Console.WriteLine("Welcome to Palindrome Checker. Enter word or phrase.");
-            var phrase = System.Console.ReadLine();
             int phraseLength = phrase.Length;
             Boolean isPalindrome = true;
 
@@ -25,6 +23,8 @@ namespace Palindrome.Domain
             } else {
                 Console.WriteLine($"{phrase} is not Palindrome");
             }
+
+            return isPalindrome;
         }
 
 
