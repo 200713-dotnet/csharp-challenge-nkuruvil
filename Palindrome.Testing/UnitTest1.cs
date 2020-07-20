@@ -11,7 +11,7 @@ namespace Palindrome.Testing
         {
 
             var phrase = "racecar";
-            Boolean isPalindrome = Class1.testPalindrome("racecar");
+            Boolean isPalindrome = Class1.testPalindrome(phrase);
             Assert.True(isPalindrome);
 
             if(isPalindrome) {
