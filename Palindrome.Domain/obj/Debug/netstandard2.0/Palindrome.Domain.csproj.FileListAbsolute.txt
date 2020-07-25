@@ -1,0 +1,9 @@
+/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.deps.json
+/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.dll
+/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.pdb
+/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csprojAssemblyReference.cache
+/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfoInputs.cache
+/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfo.cs
+/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csproj.CoreCompileInputs.cache
+/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.dll
+/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.pdb

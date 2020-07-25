@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "/home/fred/.nuget/packages/": {}
+    "/home/nkuruvilla/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj",
+      "projectUniqueName": "/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/Palindrome.Domain.csproj",
       "projectName": "Palindrome.Domain",
-      "projectPath": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj",
-      "packagesPath": "/home/fred/.nuget/packages/",
-      "outputPath": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Domain/obj/",
+      "projectPath": "/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/Palindrome.Domain.csproj",
+      "packagesPath": "/home/nkuruvilla/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/ekuru/2007_13_dotnet/coding_challenges/Palindrome/csharp-challenge-nkuruvil/Palindrome.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/fred/.nuget/NuGet/NuGet.Config"
+        "/home/nkuruvilla/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -231,7 +231,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
       }
     }
   }
